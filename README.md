@@ -1,2 +1,2 @@
-# apresentacao_basica
-Repositório para um projeto onde poderá fazer uma apresentação básica.
+# PROJETO DE APRESENTAÇÃO
+Escreva o que deseja ser exibido e seja feliz

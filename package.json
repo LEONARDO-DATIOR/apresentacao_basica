@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1"
+  },
+  "name": "apresentacao_basica",
+  "version": "1.0.0",
+  "description": "Escreva o que deseja ser exibido e seja feliz",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
